@@ -80,7 +80,7 @@ class _BarcodeScannerDemoState extends State<BarcodeScannerDemo> {
                           onPressed: () => barcodeScan(),
                           child: const Text('Barcode Scan',
                               style: TextStyle(
-                                  fontSize: 17, fontWeight: FontWeight.bold))),
+                                  fontSize: 17.5, fontWeight: FontWeight.bold))),
                     ),
                   ]));
         }));
